@@ -4,17 +4,17 @@ The automotive industry is an example of a technological revolution. It is consi
 Huahui Mo
 Computer Science
 University of Calgary
-Calgary, Canada
+Calgary, Canada  
 huahui.mo@ucalgary.ca
 
 Jianan Ding
 Computer Science
 University of Calgary
-Calgary, Canada
+Calgary, Canada   
 jianan.ding1@ucalgary.ca
 
 Zheng Liang
 Computer Science
 University of Calgary
-Calgary, Canada
+Calgary, Canada   
 zheng.liang@ucalgary.ca
